@@ -1,0 +1,66 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Aug 2025 20:25:51 at https://gptchromepet.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gptchromepet.co.in/ -O1 "E:\clgorg" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:30:07	Warning: 	File not parsed, looks like binary: https://gptchromepet.co.in/fonts/glyphicons-halflings-regular.html
+20:30:07	Warning: 	Warning: store application/octet-stream without scan: E:/clgorg/gptchromepet.co.in/fonts/glyphicons-halflings-regular.html
+20:30:08	Warning: 	File not parsed, looks like binary: https://gptchromepet.co.in/fonts/fontawesome-webfont3295.html?v=4.5.0
+20:30:08	Warning: 	Warning: store application/octet-stream without scan: E:/clgorg/gptchromepet.co.in/fonts/fontawesome-webfont32953295.html
+20:30:08	Error: 	"Not Found" (404) at link https://gptchromepet.co.in/sllabus/ece/3/PROGRAMMING IN í¦Cí¦.pdf (from https://gptchromepet.co.in/government_polytechnic_college_in_chrompet_ece_dept_courses_details.html)
+20:30:08	Error: 	"Not Found" (404) at link https://gptchromepet.co.in/sllabus/ece/6/Elective Theory ¿C II TELEVISION ENGINEERING.pdf (from https://gptchromepet.co.in/government_polytechnic_college_in_chrompet_ece_dept_courses_details.html)
+20:30:08	Error: 	"Not Found" (404) at link https://gptchromepet.co.in/img/gallery/30.jpg (from https://gptchromepet.co.in/government_polytechnic_college_in_chrompet_gallery.html)
+20:30:08	Error: 	"Not Found" (404) at link https://gptchromepet.co.in/img/gallery/31.jpg (from https://gptchromepet.co.in/government_polytechnic_college_in_chrompet_gallery.html)
+20:30:08	Error: 	"Not Found" (404) at link https://gptchromepet.co.in/img/gallery/32.jpg (from https://gptchromepet.co.in/government_polytechnic_college_in_chrompet_gallery.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/images/favicon.png (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-LayerSlider-static-css-layerslider-5.6.2.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-affiliate-wp-assets-css-forms.min-2.1.6.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-bbpress-templates-default-css-bbpress-2.5.14-6684.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-contact-form-7-includes-css-styles-4.9.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-easy-digital-downloads-templates-edd.min-2.8.8.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/smooth-scroll-up/css/scrollup.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/smooth-scroll-up/img/scrollup.png (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/edd-all-access/assets/css/styles.min.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/edd-free-downloads/assets/js/jBox/Source/jBox.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-edd-free-downloads-assets-css-style-2.1.7.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/radius-bootstrap/css/bootstrap.min.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/radius-font-awesome/css/font-awesome.min.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/owl.carousel.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/animate.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/owl.theme.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/owl.transitions.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/style.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-js_composer-assets-css-js_composer.min-5.2.1.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-ubermenu-pro-assets-css-ubermenu.min-3.2.1.1.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-ubermenu-assets-css-fontawesome-css-font-awesome.min-4.3.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-easy-fancybox-fancybox-jquery.fancybox-1.3.8.min-1.6.css (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8 (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-includes-js-jquery-jquery-1.12.4.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-includes-js-jquery-jquery-migrate.min-1.4.1.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-LayerSlider-static-js-layerslider.kreaturamedia.jquery-5.6.2.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:08	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-LayerSlider-static-js-layerslider.transitions-5.6.2.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-affiliate-wp-assets-js-jquery.cookie.min-1.4.0.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-affiliate-wp-assets-js-tracking.min-2.1.6.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/edd-free-downloads/assets/js/isMobile.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/edd-free-downloads/assets/js/jBox/Source/jBox.min.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-edd-free-downloads-assets-js-edd-free-downloads-2.1.7.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.5.min.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/images/logo.png (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-bbpress-templates-default-js-editor-2.5.14-6684.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-contact-form-7-includes-js-scripts-4.9.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.8.8 (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/plugins/smooth-scroll-up/js/jquery.scrollUp.min.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/css/radius-bootstrap/js/bootstrap.min.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/js/owl.carousel.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/js/wow.min.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/themes/radius/js/custom.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-ubermenu-assets-js-ubermenu.min-3.2.1.1.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-easy-fancybox-fancybox-jquery.fancybox-1.3.8.min-1.6.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-easy-fancybox-js-jquery.easing.min-1.4.0.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+20:30:10	Error: 	"Not Found" (404) at link https://www.radiustheme.com/wp-content/cache/busting/1/wp-content-plugins-easy-fancybox-js-jquery.mousewheel.min-3.1.13.js (from https://gptchromepet.co.in/Phone(01)800433633.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 18 seconds : 326 links scanned, 274 files written (39258109 bytes overall) [40255427 bytes received at 156028 bytes/sec], 3972753 bytes transferred using HTTP compression in 47 files, ratio 22%, 10.9 requests per connection
+(51 errors, 4 warnings, 0 messages)
